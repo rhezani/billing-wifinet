@@ -1,0 +1,21 @@
+{
+  "short_name": "Billing WIFI",
+  "name": "Billing WIFI Premium",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/wifi.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/wifi.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#FAF5FF",
+  "theme_color": "#4F46E5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
